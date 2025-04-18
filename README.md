@@ -3,9 +3,9 @@
 
 - 2D and 3D Artist
 - 3D Modeling & Animation at Director Øz Studio
-- Audiovisual Producer
-- FPV Pilot
+- Audiovisual Producer & FPV Pilot
 - Blender FTW lol (+1000 Hours)
+- Game Development Student
 
 
 <h3 align="left">Connect with me in:</h3>
