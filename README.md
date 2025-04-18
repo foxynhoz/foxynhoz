@@ -6,8 +6,8 @@
 - Audiovisual Producer & FPV Pilot
 - Blender FTW lol (+1000 Hours)
 - Game Development Student
-- While (coffee){
-      awake = true;
+- while (coffee){
+    <br>    awake = true;</br>
   }
 
 
