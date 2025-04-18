@@ -1,10 +1,18 @@
-# Wassup, im Daniel Foxyz🦊
+<h1> Wassup, im Daniel Foxyz🦊<br> </h1> 
+<p><h2> A lil bit about me :) </h2></p> 
+
+- 2D and 3D Artist
+- 3D Modeling & Animation at Director Øz Studio
+- Audiovisual Producer
+- FPV Pilot
+- Blender FTW lol (+1000 Hours)
+
 
 <h3 align="left">Connect with me in:</h3>
   <p align="left">
     <a href="https://www.linkedin.com/in/daniel-foxyz-334720259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Daniel-Foxyz" height="30" width="40" /></a>
     <a href="https://www.instagram.com/foxynhoz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="foxynhoz" height="40" width="40" /></a>
-    <a href="t.me/foxynhoz/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="foxynhoz" height="40" width="40" /></a>
+    <a href="t.me/foxynhoz/" ><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="foxynhoz" height="40" width="40" /></a>
 
 <div>
   <h1 >LANGUAGES:</h3>
