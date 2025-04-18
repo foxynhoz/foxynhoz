@@ -6,6 +6,7 @@
 - Audiovisual Producer & FPV Pilot
 - Blender FTW lol (+1000 Hours)
 - Game Development Student
+- While (
 
 
 <h3 align="left">Connect with me in:</h3>
