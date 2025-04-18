@@ -20,7 +20,7 @@
     <a  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="100" height="100"/> </a>
     <a  target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="csharp" width="100" height="100"/> </a> </p>
   <h1 ">TOOLS:</h3>
-    <p > <a  target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" alt="blender" width="110" height="110"/> </a>    
+    <p > <a  target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" alt="blender" width="100" height="100"/> </a>    
     <a target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=pKrplEv3lofi&format=png&color=000000" alt="Substance" width="100" height="100"/> </a>
     <a  target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=55O6KKA9CyIA&format=png&color=000000" alt="unity" width="100" height="100"/> </a> 
     <a  target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=69503&format=png&color=000000" alt="unreal" width="100" height="100"/> </a> </p>
