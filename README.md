@@ -1,4 +1,4 @@
-<h1> Wassup, im Daniel Foxyz🦊<br> </h1> 
+<h1>Wassup, im Daniel Foxyz🦊<br> </h1> 
 <p><h2> A lil bit about me :) </h2></p> 
 
 - 2D and 3D Artist
@@ -7,7 +7,7 @@
 - Blender FTW lol (+1000 Hours)
 - Game Development Student
 - while (coffee){<br>
-      awake = true<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;awake = true<br>
   }
 
 
