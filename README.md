@@ -2,7 +2,7 @@
 <p><h2> A lil bit about me :) </h2></p> 
 
 - 2D and 3D Artist
-- 3D Modeling & Animation at Director Øz Studio
+- 3D Modeling & Animation Director at Øz Studio
 - Audiovisual Producer & FPV Pilot
 - Blender FTW lol (+1000 Hours)
 - Game Development Student
