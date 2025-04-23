@@ -27,9 +27,9 @@
     <a target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=pKrplEv3lofi&format=png&color=000000" alt="Substance" width="100" height="100"/> </a>
     <a  target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=55O6KKA9CyIA&format=png&color=000000" alt="unity" width="100" height="100"/> </a> 
     <a  target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=69503&format=png&color=000000" alt="unreal" width="100" height="100"/> </a> </p>
+    <a  target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=79087&format=png&color=000000" alt="Inkscape" width="100" height="100"/> </a>
     <p > <a  target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" alt="Photoshop" width="100" height="100"/> </a>
     <a  target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=hksmgkMI669m&format=png&color=000000" alt="illustrator" width="100" height="100"/> </a>
-    <a  target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=79087&format=png&color=000000" alt="Inkscape" width="100" height="100"/> </a>
     <a  target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=e57Y1CnsOasB&format=png&color=000000" alt="Premiere" width="100" height="100"/> </a>
     <a target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=108781&format=png&color=000000" alt="After FX" width="100" height="100"/> </a> </p>
   </div>
