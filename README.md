@@ -4,7 +4,7 @@
 - 2D and 3D Artist
 - 3D Modeling & Animation Director at Øz Studio
 - Audiovisual Producer & FPV Pilot
-- Blender FTW lol (+1000 Hours)
+- Blender
 - Game Development Student
 - while (coffee){<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;awake = true;<br>
