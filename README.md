@@ -19,7 +19,6 @@
 
 <div>
   <h1 >LANGUAGES:</h3>
-    <p ><a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="100" height="100"/> </a>
     <a  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="100" height="100"/> </a>
     <a  target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="csharp" width="100" height="100"/> </a> </p>
   <h1 ">TOOLS:</h3>
